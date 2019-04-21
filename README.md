@@ -10,7 +10,7 @@ Salabim follows a well proven and very intuitive ame process description method 
 The package provides animation, queues, 'states', monitors for data
 collection and presentation, tracing and statistical distributions.
 
-See www.salabim.org for details...
+See www.salabim.org for details.
 
 See www.salabim.org/manual for the documentation.
 
